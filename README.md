@@ -2,7 +2,7 @@
 <h4 align="left">🚀 MERN Stack Developer | Engineer</h4>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Mahesh;MERN+Stack+Developer;AI+Enthusiast;Passionate+Learner+in+Technology">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Mahesh;MERN+Stack+Developer;I+enjoy;learning+and+adapting+to+new+Technologies">
 </p>
 
 ---
