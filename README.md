@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahesh Mangalagatti</h1>
+<h1 align="left">Hi 👋, I'm Mahesh Mangalagatti</h1>
 <h3 align="center">🚀 MERN Stack Developer | AI Enthusiast | Engineer</h3>
 
 <p align="center">
