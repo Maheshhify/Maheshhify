@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mahesh Mangalagatti</h1>
-<h3 align="center">🚀 MERN Stack Developer | AI Enthusiast | Engineer</h3>
+<h3 align="center">🚀 MERN Stack Developer | Engineer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Mahesh;MERN+Stack+Developer;AI+Enthusiast;Passionate+Learner+in+Technology">
@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🌱 I’m currently learning **MERN Stack Development**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🤖 Interested in **Artificial Intelligence & Gen AI**
 - 💬 Ask me about **JavaScript, React.js, Node.js**
 - ⚡ Fun fact: I enjoy solving **coding problems**
 
